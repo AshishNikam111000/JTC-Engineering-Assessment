@@ -8,10 +8,6 @@ print(arr)
 
 '''
 
-URL that contains the solution in programming
-language of your choice (recommended:
-Typescript or JavaScript)
-
 Time complexity (Big O notation) of your
 solution: O(N/2)
 
